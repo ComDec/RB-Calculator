@@ -1,0 +1,15 @@
+Name,Formula,SMILES
+Benzene,C6H6,c1ccccc1
+Thiophene,C4H4S,c1ccsc1
+Pyridine,C5H5N,n1ccccc1
+Pyrole,C4H5N,c1cc[nH]c1
+Furan,C4H4O,c1ccoc1
+Imidazole,C3H4N2,c1cnc[nH]1
+Pyrazole,C3H4N2,c1cc[nH]n1
+Triazole,C2H3N3,c1cnn[nH]1
+Tetrazole,CH2N4,c1nnnn[nH]1
+Quinoline,C9H7N,n1ccc2ccccc2c1
+Isoquinoline,C9H7N,c1ccc2c(c1)nccc2
+Indole,C8H7N,c1ccc2c(c1)c[nH]c2
+Carbazole,C12H9N,c1ccc2c(c1)c3ccccc3[nH]2
+Phthalazine,C8H6N2,c1ccc2c(c1)nnc2

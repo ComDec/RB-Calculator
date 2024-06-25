@@ -1,0 +1,1 @@
+parallel -j 8 -a $1 ./run_dft_refine.sh "./torsion_profiles" "./dft_energy" {1}

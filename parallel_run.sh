@@ -1,0 +1,1 @@
+python cal_via_xtb.py $1 ./xtb_cal_mols
